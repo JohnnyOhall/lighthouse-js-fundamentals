@@ -30,7 +30,7 @@ let vegetables = [
     plumpness: 3
   }
 ]
-let metric = 'redness'
+let metric = 'Weight'
 
 //OUTPUT//
 console.log(judgeVegetable(vegetables,metric))
